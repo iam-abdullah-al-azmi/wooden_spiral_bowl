@@ -1,6 +1,12 @@
-# Concept Design Prototype of a Wooden Spiral Bowl
+# A Spiral-Slatted Wooden Bowl Formed from Concentric Ribbons
 
 ## Summary
+
+A bowl is a simple object, but its form can turn it into a piece of decoration as well as a container. Open, slatted forms in particular create a light structure that casts interesting shadows and lets air and light pass through. This project explores a wooden bowl built from a spiral arrangement of thin ribbons.
+
+The model is a shallow, wide bowl made of many thin concentric ribbons with narrow gaps between them. The ribbons shift gradually around the bowl, and at one edge they fan out like the slats of a hand-held fan. The bowl narrows toward the center, where a round opening sits in the base. Together, these features give the bowl a layered, swirling look. The main challenge was to keep every ribbon evenly spaced while the overall shape curves and tapers, because a small error in one ribbon shows up across the whole bowl.
+
+The bowl was developed as a computational model in SolidWorks. The views below show the ribbons, the gaps, and the central opening from every side, along with a section view of the part. This prototype is a base concept design that can be developed further into a bowl that can be cut or machined from wood.
 
 ---
 
@@ -19,11 +25,32 @@
 
 ---
 
-## Technologies Used
+## Software Used
 
-| Purpose |      Name       |     Version     |
-| :-----: | :-------------: | :-------------: |
-| Design  | SolidWorks 2024 | Student Version |
+| Purpose |               Name                |
+| :-----: | :-------------------------------: |
+| Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  | Name |
+| :-: | :--: |
+| 01  |      |
+| 02  |      |
+| 03  |      |
+| 04  |      |
+| 05  |      |
+| 06  |      |
+| 07  |      |
+| 08  |      |
+| 09  |      |
+| 10  |      |
+
+---
+
+## Image of the Tool Used
 
 ---
 
