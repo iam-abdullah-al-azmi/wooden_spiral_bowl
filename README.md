@@ -35,22 +35,19 @@ The bowl was developed as a computational model in SolidWorks. The views below s
 
 ## Tools Used
 
-| No  | Name |
-| :-: | :--: |
-| 01  |      |
-| 02  |      |
-| 03  |      |
-| 04  |      |
-| 05  |      |
-| 06  |      |
-| 07  |      |
-| 08  |      |
-| 09  |      |
-| 10  |      |
+| No  |      Name      |
+| :-: | :------------: |
+| 01  |  Boss Extrude  |
+| 02  |     Shell      |
+| 03  |     Fillet     |
+| 04  |  Extrude Thin  |
+| 05  | Linear Pattern |
 
 ---
 
 ## Image of the Tool Used
+
+![Image of the Tool Used](images/wooden_spiral_bowl_tool_used.png)
 
 ---
 
