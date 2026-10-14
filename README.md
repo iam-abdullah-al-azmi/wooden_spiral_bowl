@@ -76,3 +76,9 @@ The spiral form was modeled as a solid prototype, and the manufacturing method i
 ## References
 
 [^1]: [15'' Lasercut Wood Bowl](https://shop.nga.gov/15-lasercut-wood-bowl)
+
+---
+
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
