@@ -45,7 +45,7 @@ The bowl was developed as a computational model in SolidWorks. The views below s
 
 ---
 
-## Image of the Tool Used
+## Feature Tree
 
 ![Image of the Tool Used](images/wooden_spiral_bowl_tool_used.png)
 
